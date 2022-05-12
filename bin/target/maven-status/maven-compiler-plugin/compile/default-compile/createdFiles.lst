@@ -1,0 +1,5 @@
+Controller\ConnectionMySQL.class
+Controller\MenuDeUsuario.class
+DAO\MySQLCrud.class
+Controller\ConversorJSON.class
+View\ApplicationMySQLAPI.class
